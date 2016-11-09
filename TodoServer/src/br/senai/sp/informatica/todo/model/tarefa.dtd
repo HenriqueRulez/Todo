@@ -1,0 +1,6 @@
+<!ELEMENT tarefas (tarefa*) >
+<!ELEMENT tarefa (id, descricao, feito, item*) >
+<!ELEMENT id (#PCDATA) >
+<!ELEMENT descricao (#PCDATA) >
+<!ELEMENT feito (#PCDATA) >
+<!ELEMENT item (id, descricao, feito) >

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="titulo_do_todo">Título do Todo</string>
+    <string name="x">X</string>
+    <string name="lista_de_itens">Lista de Itens</string>
+    <string name="descricao">Título</string>
+    <string name="descricao_do_item">Descrição do Item</string>
+    <string name="programacao">Programação</string>
+</resources>
